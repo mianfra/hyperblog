@@ -1,8 +1,10 @@
 body
 {
     color: #333;
-    text-align: left;
-    font-family: "cursive";
+    text-align: center;
+    font-family: "arial";
+    font-size: 16px;
+   
 }
 #container
 {
@@ -16,3 +18,4 @@ body
 #container h1
 {
     font-size: 20px;
+}
