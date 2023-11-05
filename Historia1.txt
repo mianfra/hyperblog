@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Esta es la histiria de Michael Franco
 
 michael franco tiene 41 años en colombia
 y vive en todo el mundo
+=======
+Esta es la histiria de Michael Franco
+
+michael franco tiene 41 años en colombia
+y vive en todo el mundo
+>>>>>>> b770e9cc1e46189ca9be6e4a4b18dbfd656041c0
 mañana nos enfocaremos en sacar adelante el proyecto
