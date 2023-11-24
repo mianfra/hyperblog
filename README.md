@@ -7,9 +7,13 @@ un blog increible para el [curso de git y github](https://platzi.com/cursos/git-
 ##  En este curso vemos de todo
 
 *Todos lo comandos de git 
+
 *El flujo de trabajo de git hub
+
 *El verdadero amor por las buenas practicas
+
 *Trucos muy locos del profesor
+
 *Las personalidades multiples de freddy.
 
 
